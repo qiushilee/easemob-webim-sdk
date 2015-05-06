@@ -7416,4 +7416,3 @@ if (typeof Easemob.im.Helper == 'undefined') {
 	Easemob.im.Helper.registerUser = registerUserFn;
 }
 })(jQuery)
-}
